@@ -1,5 +1,6 @@
 import * as PATHS from "../utils/paths";
 import HomePage from "../pages/HomePage";
+import Projects from "../pages/Projects";
 
 const routes = (props) => {
   return [
@@ -7,6 +8,10 @@ const routes = (props) => {
       path: PATHS.HOMEPAGE,
       element: <HomePage {...props} />,
     },
+    {
+      path: PATHS.PROJECTS,
+      element: <Projects {...props} />
+    }
   ];
 };
 
