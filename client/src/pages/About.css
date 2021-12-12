@@ -1,0 +1,8 @@
+.AboutMe {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    width: 50rem;
+    margin-left: 20rem;
+  }
