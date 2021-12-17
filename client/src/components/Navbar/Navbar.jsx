@@ -12,14 +12,17 @@ class Navbar extends Component {
                 <Link to='/'>
                     <h2>Home</h2>
                 </Link>
-                
-                <Link to ='/about'>
+
+                <Link to='/about'>
                     <h2>About</h2>
                 </Link>
 
                 <Link to='/projects'>
                     <h2>Projects</h2>
                 </Link>
+
+                <a target="_blank" rel="noreferrer" href="https://viajesconintencion.co">
+                    <h2>Viajes Con Intencion</h2></a>
             </navbar>
         )
     }
