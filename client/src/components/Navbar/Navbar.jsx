@@ -10,15 +10,15 @@ class Navbar extends Component {
         return (
             <navbar id='mainNavComponent'>
                 <Link to='/'>
-                    Home
+                    <h2>Home</h2>
                 </Link>
                 
                 <Link to ='/about'>
-                    About
+                    <h2>About</h2>
                 </Link>
 
                 <Link to='/projects'>
-                    Projects
+                    <h2>Projects</h2>
                 </Link>
             </navbar>
         )
