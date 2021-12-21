@@ -21,7 +21,7 @@ class Navbar extends Component {
                     <h2>Projects</h2>
                 </Link>
 
-                <a target="_blank" rel="noreferrer" href="https://viajesconintencion.co">
+                <a target="_blank" rel="noreferrer" href="https://viajesconintencion.com">
                     <h2>Viajes Con Intencion</h2></a>
             </navbar>
         )

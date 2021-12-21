@@ -23,9 +23,9 @@ function About() {
 
       <div>
 
-      <a target="_blank" href="https://github.com/jlp21">Github</a><br/><br/>
+      <a target="_blank" rel="noreferrer" href="https://github.com/jlp21">Github</a><br/><br/>
 
-      <a target="_blank" href="https://www.linkedin.com/in/josephlportelli/">LinkedIn</a><br/>
+      <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/josephlportelli/">LinkedIn</a><br/>
 
       </div>
 
